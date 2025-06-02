@@ -1,0 +1,34 @@
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.AssemblyReference.cache
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Resources.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.GenerateResource.cache
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.CoreCompileInputs.cache
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.exe.config
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.exe
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.pdb
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.xml
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.exe
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.xml
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.pdb
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Form1.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Login.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Signup.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Stock.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Billing_Form.resources
+C:\Users\Thato Metsing\Documents\BSc Information Technology\ASSIGNMENTS\Semester 2\Programming\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.LoadForm.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.exe.config
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.exe
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.pdb
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\bin\Debug\Richfield PC Store.xml
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.AssemblyReference.cache
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Billing_Form.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Form1.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.LoadForm.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Login.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Resources.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Signup.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield_PC_Store.Stock.resources
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.GenerateResource.cache
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfiled PC Store.vbproj.CoreCompileInputs.cache
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.exe
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.xml
+C:\Users\Thato Metsing\Documents\BSc IT\First Year\Programming\Semester 2\PRO512\Richfiled PC Store\Richfiled PC Store\obj\Debug\Richfield PC Store.pdb

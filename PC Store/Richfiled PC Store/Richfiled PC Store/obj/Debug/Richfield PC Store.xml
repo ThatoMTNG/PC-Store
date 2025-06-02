@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Richfield PC Store
+</name>
+</assembly>
+<members>
+<member name="T:Richfield_PC_Store.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.binaryscreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.Gadgets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.loginimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Richfield_PC_Store.My.Resources.Resources.loginvector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSet.more_detailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSet.more_detailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSet.more_detailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.more_detailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Richfield_PC_Store.MoreUserDetailsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Richfield_PC_Store.MoreUserDetailsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Richfield_PC_Store.MoreUserDetailsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.UpdateAll(Richfield_PC_Store.MoreUserDetailsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.MoreUserDetailsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSet.login_detailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSet.login_detailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSet.login_detailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.login_detailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Richfield_PC_Store.RGI_tech_storeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Richfield_PC_Store.RGI_tech_storeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Richfield_PC_Store.RGI_tech_storeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.UpdateAll(Richfield_PC_Store.RGI_tech_storeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.RGI_tech_storeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSet.new_stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSet.new_stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSet.new_stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSetTableAdapters.new_stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Richfield_PC_Store.StockDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Richfield_PC_Store.StockDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Richfield_PC_Store.StockDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.UpdateAll(Richfield_PC_Store.StockDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Richfield_PC_Store.StockDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
